@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "jesee030.github.io/Blog-With-GitHub-Boilerplate/archives/my-first-awesome-post/"
+    "repo": "jesee030/Blog-With-GitHub-Boilerplate/archives/my-first-awesome-post/"
 }
 
 # 站点设置
